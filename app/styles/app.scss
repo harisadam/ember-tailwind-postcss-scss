@@ -1,0 +1,12 @@
+@import "tailwindcss/base.css";
+@import "tailwindcss/components.css";
+@import "tailwindcss/utilities.css";
+
+//scss test
+$green: #abc123;
+
+.c-header {
+  p {
+    color: $green;
+  }
+}
