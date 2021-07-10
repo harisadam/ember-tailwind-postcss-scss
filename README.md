@@ -5,6 +5,7 @@
 - @csstools/postcss-sass  
 - tailwindcss  
 - postcss-import  
+- postcss-scss  
 
 ### ember-cli-build.js
 
@@ -26,6 +27,9 @@ module.exports = function(defaults) {
       }
     }
   });
+
+  // ...
+};
 ```
 
 ### app.scss
