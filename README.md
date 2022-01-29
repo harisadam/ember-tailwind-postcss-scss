@@ -1,3 +1,5 @@
+#Deprecated: [Tailwind 3 + Ember 4 Starter](https://github.com/harisadam/tailwind-3-ember-4-scss-starter).
+
 # ember-tailwind-postcss-scss
 
 ### Dependencies
